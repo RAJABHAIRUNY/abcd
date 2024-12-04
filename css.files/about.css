@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: transparent;
+}
+
+.about-gosaikunda, .about_bathrog{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    margin: 0 10px;
+    padding: 15px 15px;
+    position: relative;
+
+}
+
+.about-gosaikunda, .about_bathrog  p{
+    color: darkblue;
+    font-size: 14px; 
+    text-align: left;
+}
+
+   h1{
+    color: crimson;
+    text-align: center;
+    margin: 5px 0;
+}
+    
+    
+
+@media (max-width: 768px){
+
+    .about-gosaikunda, .about_bathrog  p{
+        color: darkblue;
+        font-size: 12px; 
+        padding: 0 5px;
+    }
+
+
+}
+
+
+
+.about_bathrog span{
+    font-size: 14px;
+    color: crimson;
+    font-weight: 600;
+
+}
+
+ .bathrog, .drdeepa,  .drdipendra {
+
+    width: 250px;
+    padding: 10px 10px;
+
+}
+
+
+.bathroo-deepa{
+    width: 150px;
+    padding: 5px 5px;
+    float: left;
+}
+
+
+.bathrog{
+    float: right ;
+}
+
+
+.drdeepa{
+float: right;
+
+}
+.drdipendra
+{
+    float: left;
+}
