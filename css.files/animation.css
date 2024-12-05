@@ -139,8 +139,8 @@ body{
 }
 
 .animation .list .item .content .description{
-    font-size: 13px;
-    color: blue;
+    font-size: 15px;
+    color: darkblue;
     line-height: 20px;
     padding: 10px;
     border-radius: 15px;
