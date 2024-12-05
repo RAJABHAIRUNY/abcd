@@ -68,9 +68,24 @@ body{
 
 }
 @media (max-width: 768px){
+
+
+
+    
+.full-img img{
+    width: 70vh;
+    height: auto;
+    margin: 10px;
+
+    /*
+    max-width: 400px;
+*/
+}
     
 .img-gallery{
     width: 90%;
+    overflow: hidden;
+    
 
 }
 
