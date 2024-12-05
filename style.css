@@ -348,7 +348,7 @@ nav .fa-solid{
 
 
 .welcome    h1{
-    font-size: 18px;
+    font-size: 20px;
     word-spacing: 2px;
     margin: 8px;
     padding: 0px 20px;
@@ -356,7 +356,7 @@ nav .fa-solid{
 }
 .welcome  p{
     color: darkblue;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 20PX;
     margin: auto;
     padding: 5PX 5PX;
@@ -384,11 +384,11 @@ nav .fa-solid{
         margin: 8px;
         padding: 0px 20px;
         color: crimson;
-        font-size: 14px;
+        font-size: 17px;
     }
     p{
         color: darkblue;
-        font-size: 12px;
+        font-size: 15px;
         line-height: 22PX;
         margin: auto;
         padding: 5PX 5PX;   
