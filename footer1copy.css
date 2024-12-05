@@ -142,7 +142,7 @@ iframe{
 
 .container_d .info li span:nth-child(1){
     color: darkblue;
-    font-size: 13px;
+    font-size: 15px;
     margin-right: 15px;
 
 }
@@ -151,13 +151,13 @@ iframe{
 .container_d .info li span{
     color: darkblue;
     cursor: pointer;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .container_d .info li a{
     color: darkblue;
     text-decoration: none;
-    font-size: 12px;
+    font-size: 15px;
     
 }
 
@@ -165,7 +165,7 @@ iframe{
 .container_d .info li a:hover{
     color: green;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 17px;
     
 }
 
@@ -176,9 +176,9 @@ iframe{
     background: olive;
     text-align: center;
     font-size: 14px;
-    border-bottom-right-radius: 15px;
+    border-bottom-right-radius: 10px;
 
-    border-bottom-left-radius: 15px;
+    border-bottom-left-radius: 10px;
 }
 .copyrightText p{
     font-size: 12px;
