@@ -118,7 +118,7 @@ nav .fa-solid{
         align-items: center;
         position: absolute;
         background-color: olive;
-        width: 100%;
+        width: 90%;
         height: 220px;
         text-align: center;
         line-height: 8px;
@@ -126,6 +126,8 @@ nav .fa-solid{
         gap: 10px;
         top: 60px;
         z-index: 100;
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
     
     }
 
@@ -135,7 +137,9 @@ nav .fa-solid{
     font-size: 15px;
     line-height: 17px;
     
-               }
+
+    
+ }
 
 nav h1{
     font-size: 12px;
