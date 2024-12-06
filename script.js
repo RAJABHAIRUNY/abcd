@@ -1,9 +1,29 @@
 
-var navLinks = document.getElementById("navLinks")
-function showmenu()
-{navLinks.style.right = "0";}
-function hidemenu()
-{navLinks.style.right = "-200px";}
+let icon = document.querySelector(".icon");
+let ul = document.querySelector("ul");
+
+icon.addEventListener("click", ()=>{
+    ul.classList.toggle("showdata");
+    if(ul.className == "showdata"){
+        document.getElementById("bar").className= "fa-solid fa-xmark"
+    }
+    else{
+        document.getElementById("bar").className= "fa-solid fa-bars"
+
+
+    }
+
+
+})
+
+
+
+
+//var navLinks = document.getElementById("navLinks")
+//function showmenu()
+//{navLinks.style.right = "0";}
+//function hidemenu()
+//{navLinks.style.right = "-200px";}
 
 
 
