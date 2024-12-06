@@ -41,8 +41,9 @@ nav img{
     width: 30px;
     
 }
+
 nav h1{
-    font-size: 10px;
+    font-size: 14px;
     
     color:  white;
 }
@@ -50,20 +51,23 @@ nav h1{
 nav ul{
     display: flex;
     align-items: center;
+    
 }
 
 
 nav ul li{
     list-style: none; 
+
+
 }
 
 
 nav ul li a{
     text-decoration: none;
-    margin-inline: 20px;
+    margin-inline: 6px;
     color: white;
-    font-size: 15px;
-    line-height: 17px;
+    font-size: 13px;
+    
     
     
     
@@ -124,7 +128,25 @@ nav .fa-solid{
         z-index: 100;
     
     }
+
+    
+     nav ul li a{
+
+    font-size: 15px;
+    line-height: 17px;
+    
+               }
+
+nav h1{
+    font-size: 12px;
+
 }
+
+}
+
+
+
+
 
 
 
