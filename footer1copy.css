@@ -11,10 +11,11 @@
     font-family:  sans-serif;
 
     /*
-    background-image: linear-gradientrgba ( ( 162, 108, 108, 0.6) ,rgba( 162, 108, 108, 0.6), rgba(162, 108, 108, 0.6),
-    rgba(162, 108, 108, 0.6)), url(footerimg.jpg);
-
-    */
+    background-image: linear-gradient(rgba(162, 108, 108, 0.4), rgba( 15, 17, 18, 0.4),
+     rgba(12, 18, 18, 0.4),
+    rgba(162, 108, 108, 0.4)), url(images/kids-arthritis-1200x630.jpg);
+*/
+    
     background-position: center;
     background-size: cover;
 
